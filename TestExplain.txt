@@ -1,0 +1,19 @@
+Create a file with no code, and test git command : 
+//add new file to master
+git status
+git add file
+git commit "xxxx"
+git push
+
+//update branch 
+rm file
+git pulll
+git log 
+
+//delete file
+git rm file
+git commit ""
+git push
+
+//not want some operation
+git reset file
