@@ -17,3 +17,7 @@ git push
 
 //not want some operation
 git reset file
+
+//check the diff between local and master
+git diff
+git diff master
