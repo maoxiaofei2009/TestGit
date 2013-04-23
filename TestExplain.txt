@@ -2,7 +2,7 @@ Create a file with no code, and test git command :
 //add new file to master
 git status
 git add file
-git commit "xxxx"
+git commit -m "xxxx"
 git push
 
 //update branch 
